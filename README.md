@@ -13,8 +13,8 @@
 | Criando projeto                 |     :white_check_mark:     |
 | ESLint, Prettier & EditorConfig |     :white_check_mark:     |
 | Configurando Reactotron         |     :white_check_mark:     |
-| React Navigation                | :eight_pointed_black_star: |
-| Configurando StatusBar          | :eight_pointed_black_star: |
+| React Navigation                |     :white_check_mark:     |
+| Configurando StatusBar          |     :white_check_mark:     |
 | Styled Components               | :eight_pointed_black_star: |
 | Estilizando formulário          | :eight_pointed_black_star: |
 | Acessando API do Github         | :eight_pointed_black_star: |
