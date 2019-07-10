@@ -12,7 +12,7 @@
 | Ambiente de desenvolvimento     |     :white_check_mark:     |
 | Criando projeto                 |     :white_check_mark:     |
 | ESLint, Prettier & EditorConfig |     :white_check_mark:     |
-| Configurando Reactotron         | :eight_pointed_black_star: |
+| Configurando Reactotron         |     :white_check_mark:     |
 | React Navigation                | :eight_pointed_black_star: |
 | Configurando StatusBar          | :eight_pointed_black_star: |
 | Styled Components               | :eight_pointed_black_star: |

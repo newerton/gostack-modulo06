@@ -24,6 +24,8 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+import './config/ReactotronConfig';
+
 const App = () => {
   return (
     <Fragment>
