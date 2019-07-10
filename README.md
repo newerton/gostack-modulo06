@@ -15,7 +15,7 @@
 | Configurando Reactotron         |     :white_check_mark:     |
 | React Navigation                |     :white_check_mark:     |
 | Configurando StatusBar          |     :white_check_mark:     |
-| Styled Components               | :eight_pointed_black_star: |
+| Styled Components               |     :white_check_mark:     |
 | Estilizando formulário          | :eight_pointed_black_star: |
 | Acessando API do Github         | :eight_pointed_black_star: |
 | Estilizando listagem            | :eight_pointed_black_star: |
