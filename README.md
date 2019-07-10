@@ -11,7 +11,7 @@
 | Conceitos do React Native       |     :white_check_mark:     |
 | Ambiente de desenvolvimento     |     :white_check_mark:     |
 | Criando projeto                 |     :white_check_mark:     |
-| ESLint, Prettier & EditorConfig | :eight_pointed_black_star: |
+| ESLint, Prettier & EditorConfig |     :white_check_mark:     |
 | Configurando Reactotron         | :eight_pointed_black_star: |
 | React Navigation                | :eight_pointed_black_star: |
 | Configurando StatusBar          | :eight_pointed_black_star: |
