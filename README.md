@@ -16,7 +16,7 @@
 | React Navigation                |     :white_check_mark:     |
 | Configurando StatusBar          |     :white_check_mark:     |
 | Styled Components               |     :white_check_mark:     |
-| Estilizando formulário          | :eight_pointed_black_star: |
+| Estilizando formulário          |     :white_check_mark:     |
 | Acessando API do Github         | :eight_pointed_black_star: |
 | Estilizando listagem            | :eight_pointed_black_star: |
 | Loading e disabled              | :eight_pointed_black_star: |
