@@ -18,7 +18,7 @@
 | Styled Components               |     :white_check_mark:     |
 | Estilizando formulário          |     :white_check_mark:     |
 | Acessando API do Github         |     :white_check_mark:     |
-| Estilizando listagem            | :eight_pointed_black_star: |
+| Estilizando listagem            |     :white_check_mark:     |
 | Loading e disabled              | :eight_pointed_black_star: |
 | Salvando no storage             | :eight_pointed_black_star: |
 | Realizando navegação            | :eight_pointed_black_star: |
