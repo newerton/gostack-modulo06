@@ -17,7 +17,7 @@
 | Configurando StatusBar          |     :white_check_mark:     |
 | Styled Components               |     :white_check_mark:     |
 | Estilizando formulário          |     :white_check_mark:     |
-| Acessando API do Github         | :eight_pointed_black_star: |
+| Acessando API do Github         |     :white_check_mark:     |
 | Estilizando listagem            | :eight_pointed_black_star: |
 | Loading e disabled              | :eight_pointed_black_star: |
 | Salvando no storage             | :eight_pointed_black_star: |
