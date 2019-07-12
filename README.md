@@ -6,21 +6,21 @@
 
 # ReactJS
 
-| Aulas                           |            Done            |
-| ------------------------------- | :------------------------: |
-| Conceitos do React Native       |     :white_check_mark:     |
-| Ambiente de desenvolvimento     |     :white_check_mark:     |
-| Criando projeto                 |     :white_check_mark:     |
-| ESLint, Prettier & EditorConfig |     :white_check_mark:     |
-| Configurando Reactotron         |     :white_check_mark:     |
-| React Navigation                |     :white_check_mark:     |
-| Configurando StatusBar          |     :white_check_mark:     |
-| Styled Components               |     :white_check_mark:     |
-| Estilizando formulário          |     :white_check_mark:     |
-| Acessando API do Github         |     :white_check_mark:     |
-| Estilizando listagem            |     :white_check_mark:     |
-| Loading e disabled              |     :white_check_mark:     |
-| Salvando no storage             |     :white_check_mark:     |
-| Realizando navegação            |     :white_check_mark:     |
-| Buscando dados da API           |     :white_check_mark:     |
-| Listando favoritos              | :eight_pointed_black_star: |
+| Aulas                           |        Done        |
+| ------------------------------- | :----------------: |
+| Conceitos do React Native       | :white_check_mark: |
+| Ambiente de desenvolvimento     | :white_check_mark: |
+| Criando projeto                 | :white_check_mark: |
+| ESLint, Prettier & EditorConfig | :white_check_mark: |
+| Configurando Reactotron         | :white_check_mark: |
+| React Navigation                | :white_check_mark: |
+| Configurando StatusBar          | :white_check_mark: |
+| Styled Components               | :white_check_mark: |
+| Estilizando formulário          | :white_check_mark: |
+| Acessando API do Github         | :white_check_mark: |
+| Estilizando listagem            | :white_check_mark: |
+| Loading e disabled              | :white_check_mark: |
+| Salvando no storage             | :white_check_mark: |
+| Realizando navegação            | :white_check_mark: |
+| Buscando dados da API           | :white_check_mark: |
+| Listando favoritos              | :white_check_mark: |
