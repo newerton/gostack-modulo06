@@ -22,5 +22,5 @@
 | Loading e disabled              |     :white_check_mark:     |
 | Salvando no storage             |     :white_check_mark:     |
 | Realizando navegação            |     :white_check_mark:     |
-| Buscando dados da API           | :eight_pointed_black_star: |
+| Buscando dados da API           |     :white_check_mark:     |
 | Listando favoritos              | :eight_pointed_black_star: |
