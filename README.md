@@ -20,7 +20,7 @@
 | Acessando API do Github         |     :white_check_mark:     |
 | Estilizando listagem            |     :white_check_mark:     |
 | Loading e disabled              |     :white_check_mark:     |
-| Salvando no storage             | :eight_pointed_black_star: |
+| Salvando no storage             |     :white_check_mark:     |
 | Realizando navegação            | :eight_pointed_black_star: |
 | Buscando dados da API           | :eight_pointed_black_star: |
 | Listando favoritos              | :eight_pointed_black_star: |
