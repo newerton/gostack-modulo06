@@ -19,7 +19,7 @@
 | Estilizando formulário          |     :white_check_mark:     |
 | Acessando API do Github         |     :white_check_mark:     |
 | Estilizando listagem            |     :white_check_mark:     |
-| Loading e disabled              | :eight_pointed_black_star: |
+| Loading e disabled              |     :white_check_mark:     |
 | Salvando no storage             | :eight_pointed_black_star: |
 | Realizando navegação            | :eight_pointed_black_star: |
 | Buscando dados da API           | :eight_pointed_black_star: |
