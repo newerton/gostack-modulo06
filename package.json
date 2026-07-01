@@ -11,7 +11,7 @@
     "axios": ">=1.18.1",
     "prop-types": "^15.8.1",
     "react": "19.2.7",
-    "react-native": "0.85.3",
+    "react-native": "0.86.0",
     "react-native-gesture-handler": "^2.31.2",
     "react-native-vector-icons": "^10.3.0",
     "react-navigation": "^5.0.0",
