@@ -18,8 +18,8 @@ const Routes = createAppContainer(
         },
         headerTintColor: '#FFF',
       },
-    }
-  )
+    },
+  ),
 );
 
 export default Routes;

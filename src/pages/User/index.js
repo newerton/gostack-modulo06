@@ -1,20 +1,20 @@
-import React, { Component } from 'react';
-import { View, ActivityIndicator } from 'react-native';
 import PropTypes from 'prop-types';
+import { Component } from 'react';
+import { ActivityIndicator } from 'react-native';
 import api from '../../services/api';
 
 import {
+  Author,
+  Avatar,
+  Bio,
   Container,
   Header,
-  Avatar,
-  Name,
-  Bio,
-  Stars,
-  Starred,
-  OwnerAvatar,
   Info,
+  Name,
+  OwnerAvatar,
+  Starred,
+  Stars,
   Title,
-  Author,
 } from './styles';
 
 export default class User extends Component {
@@ -63,7 +63,7 @@ export default class User extends Component {
         ) : (
           <Stars
             data={stars}
-            keyExtractor={star => String(star.id)}
+            keyExtractor={(star) => String(star.id)}
             renderItem={({ item }) => (
               <Starred>
                 <OwnerAvatar source={{ uri: item.owner.avatar_url }} />

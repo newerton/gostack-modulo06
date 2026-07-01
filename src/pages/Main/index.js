@@ -1,25 +1,22 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
-import { Keyboard, ActivityIndicator } from 'react-native';
 import AsyncStorage from '@react-native-community/async-storage';
+import PropTypes from 'prop-types';
+import { Component } from 'react';
+import { ActivityIndicator, Keyboard } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialIcons';
-import { View } from 'react-native';
-
+import api from '../../services/api';
 import {
+  Avatar,
+  Bio,
   Container,
   Form,
   Input,
-  SubmitButton,
   List,
-  User,
-  Avatar,
   Name,
-  Bio,
   ProfileButton,
   ProfileButtonText,
+  SubmitButton,
+  User,
 } from './styles';
-
-import api from '../../services/api';
 
 export default class Main extends Component {
   static navigationOptions = {
@@ -75,7 +72,7 @@ export default class Main extends Component {
     Keyboard.dismiss();
   };
 
-  handleNavigate = user => {
+  handleNavigate = (user) => {
     const { navigation } = this.props;
     navigation.navigate('User', { user });
   };
@@ -90,7 +87,7 @@ export default class Main extends Component {
             autocapitalize="none"
             placeholder="Adicionar usuário"
             value={newUser}
-            onChangeText={text => this.setState({ newUser: text })}
+            onChangeText={(text) => this.setState({ newUser: text })}
             returnKeyType="send"
           />
           <SubmitButton loading={loading} onPress={this.hanndleAddUser}>
@@ -104,7 +101,7 @@ export default class Main extends Component {
 
         <List
           data={users}
-          keyExtractor={user => user.login}
+          keyExtractor={(user) => user.login}
           renderItem={({ item }) => (
             <User>
               <Avatar source={{ uri: item.avatar }} />
