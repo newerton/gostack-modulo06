@@ -21,7 +21,7 @@
   "devDependencies": {
     "@babel/core": "^8.0.1",
     "@babel/runtime": "^8.0.0",
-    "@biomejs/biome": "^2.5.3",
+    "@biomejs/biome": "^2.5.4",
     "babel-jest": "^30.4.1",
     "jest": "^30.4.2",
     "jetifier": "^2.0.0",
