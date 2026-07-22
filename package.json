@@ -27,7 +27,7 @@
     "jetifier": "^2.0.0",
     "metro-react-native-babel-preset": "^0.77.0",
     "prettier": "^3.9.6",
-    "react-test-renderer": "19.2.7"
+    "react-test-renderer": "19.2.8"
   },
   "jest": {
     "preset": "react-native"
