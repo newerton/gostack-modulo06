@@ -12,11 +12,11 @@
     "prop-types": "^15.8.1",
     "react": "19.2.8",
     "react-native": "0.87.0",
-    "react-native-gesture-handler": "^3.1.0",
+    "react-native-gesture-handler": "^3.2.1",
     "react-native-vector-icons": "^10.3.0",
     "react-navigation": "^5.0.0",
-    "reactotron-react-native": "^5.2.0",
-    "styled-components": "^6.5.2"
+    "reactotron-react-native": "^5.3.1",
+    "styled-components": "^6.5.3"
   },
   "devDependencies": {
     "@babel/core": "^8.0.1",
